@@ -8,56 +8,26 @@ HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-	FANNY FACTS
-</title>
 <style>
-h1 {{
-	width:100%;
-	text-align: center;
-	font-family: Comic Sans MS;
-}}
-div{{
-	padding:15px;
-}}
-p {{
-    top: 50%;
-    text-align: center;
-    font-family: Comic Sans MS;
-}}
-body{{
-	background: #CCFFFF;
-}}
+body{background-color:#E6B85C; text-align:center;}
 </style>
-
+<title>
+Willy Nojopranoto
+</title>
 </head>
 <body>
-	<h1>
-		FANNY FACTS
-	</h1>
-	<div>
-	</div>
-	<p>
-		{FACT}
-	</p>
+
+<h2>Just hanging out.</h2>
+<img src="https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xfa1/t31.0-8/1026053_10151567907326843_1432800181_o.jpg" alt="Pointer Hangin" style="width:418px;height:558px;">
+
 </body>
 </html>
 """
 
-FANNY_FACTS = [
-	'Did you know? The average Fanny survives off a diet of pistachios and milk tea.',
-	'Fanny is either on her period, or not on her period. There is a 50% chance Fanny is on her period.',
-	'The average Fanny hates you.',
-	'Fanny has 3-starred every puzzle in Hungry Cat Picross! Me-wow!',
-	'It is estimated that Fanny can make over 60 different dubstep sounds.',
-	'The average Fanny can sleep for over 8 hours a day, split between her bed, her car, and random couches.',
-	'The average Fanny is estimated to have over 500 unique dance moves... and counting!',
-]
-
 @app.route('/')
 def hello():
 	try:
-	    fact = random.choice(FANNY_FACTS)
-	    return HTML_TEMPLATE.format(FACT=fact)
+	    return HTML_TEMPLATE
 	except Exception as e:
 		print e
+		raise
