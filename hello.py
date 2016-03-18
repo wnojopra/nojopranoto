@@ -1,6 +1,6 @@
 import random
 import os
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
@@ -31,3 +31,7 @@ def hello():
 	except Exception as e:
 		print e
 		raise
+
+@app.route('/cat-tinder')
+def x():
+    return render_template('cat-tinder.html')
