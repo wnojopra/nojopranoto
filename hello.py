@@ -63,7 +63,7 @@ Willy Nojopranoto
 <body>
 
 <h2>Just hanging out.</h2>
-<img src="https://avatars.slack-edge.com/2016-03-16/27307344786_16bd8a93f2ae8fdcdddb_512.jpg" alt="Pointer Hangin" style="width:418px;height:558px;">
+<img src="https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xfa1/t31.0-8/1026053_10151567907326843_1432800181_o.jpg" alt="Pointer Hangin" style="width:418px;height:558px;">
 
 </body>
 </html>
