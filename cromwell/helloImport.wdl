@@ -5,7 +5,7 @@ workflow hello_import {
     String name = "World"
   }
   
-  call hello {
+  call import_hello {
       input:
           name = name
   }
