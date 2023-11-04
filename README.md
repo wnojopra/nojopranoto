@@ -1,21 +1,14 @@
-# Parking for Spooktacular 2: The Spookening
+# Parking for Spooktacular 3: The Spooksurrection
 
 Come and eat, drink, and be scary! 🎃👻🦇💀
 
-The address is **107 Emerald Bay Lane, Foster City, CA 94404** [Google Maps link](https://goo.gl/maps/dTeWy4KNcoDVCN728)
+The address for the condo is **1079 Foster Square Lane, Foster City, CA 94404** [Google Maps link](https://maps.app.goo.gl/t4hy88RzecH8HpfSA)
 
 The below image diagrams the available parking:
-![image](https://user-images.githubusercontent.com/6879774/198841185-2c8e429e-9448-4077-b8ae-14077b52849e.png)
+![image](https://github.com/wnojopra/nojopranoto/assets/6879774/ccb895a6-41b5-47fb-b0aa-0b2e42519f30)
 
-Right in front of my house is a public guest parking lot. There's usually a few spots open, but likely not enough for everyone.
+The building is next to a few restuaraunts with a large public parking lot. Park anywhere!
 
-My recommended alternative parking lot is the Spinnaker Cove (apartments) parking lot.
-It's technically a private lot, but its always empty and we're close by and only around for a few hours.
-Access this lot by driving through Sea Spray Ln. 
-If you park here, you can walk to my house by going around the left side of the tennis court.
+Its a short walk from the parking lot past the restuaraunts and into our building. If you're uncomfortable wearing your costume outside, feel free to change once inside!
 
-Another alternative parking lot is in the Jewish Community Center across the main street.
-It's also technically a private lot, but its always empty and no one polices it.
-
-Finally, there's a Bank of America around the corner that has public parking.
-If you park here, its a 4-5 minute walk to my house.
+You'll see a big 1079 in the front of the building. The condo is on the third floor. Message me or Natalie that you're walking over and we'll let you in.
